@@ -3,4 +3,4 @@ matplotlib
 seaborn
 datetime
 streamlit
-
+plotly
