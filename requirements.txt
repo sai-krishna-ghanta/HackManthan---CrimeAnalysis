@@ -1,5 +1,5 @@
-plotly=5.6.0=pyhd3eb1b0_0
-streamlit=1.10.0=pypi_0
+plotly
+streamlit
 numpy
 pandas
 matplotlib
