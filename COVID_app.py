@@ -69,7 +69,7 @@ stateyr2 = stateyr2.sort_values('sum', ascending = False)
 
 
 st.set_page_config(
-    page_title="COVID19: EpiCenter for Disease Dynamics",
+    page_title="Crime Analysis",
     layout='wide',
     initial_sidebar_state='auto',
 )
